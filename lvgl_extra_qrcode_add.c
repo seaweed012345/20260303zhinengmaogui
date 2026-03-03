@@ -1,0 +1,1 @@
+#include <lv_qrcode.h>
